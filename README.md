@@ -1,2 +1,3 @@
-# Face-Detect-AI
-Ai that detects human face
+pip install opencv-python
+
+#nothimdude
